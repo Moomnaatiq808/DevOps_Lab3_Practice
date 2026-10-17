@@ -1,3 +1,4 @@
+Second remote line
 This line was added remotely from GitHub.
 # DevOps Lab 3
 Line 2
