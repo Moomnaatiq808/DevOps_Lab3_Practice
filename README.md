@@ -1,5 +1,5 @@
 Second remote line
-This line was added remotely from GitHub.
+This line was updated remotely again.
 # DevOps Lab 3
 Line 2
 Line 3
