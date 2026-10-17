@@ -8,3 +8,4 @@ Line 5
 Line 6
 This line was added locally.
 This line was added locally.
+Second local line
