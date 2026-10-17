@@ -4,3 +4,5 @@ Line 3
 Line 4
 Line 5
 Line 6
+This line was added locally.
+This line was added locally.
